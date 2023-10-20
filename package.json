@@ -1,5 +1,5 @@
 {
-  "name": "tableau-embbed",
+  "name": "react-tableau-embbed",
   "version": "1.0.0",
   "description": "A simple package to embed Dashboards from Tableau into React App's",
   "main": "index.ts",
